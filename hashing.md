@@ -26,7 +26,7 @@ Laravel 通过 `Hash` [facade](/docs/{{version}}/facades) 提供 Bcrypt 加密�
     class UpdatePasswordController extends Controller
     {
         /**
-         * 更新用户密码
+         * 更新用户密码
          *
          * @param  Request  $request
          * @return Response
